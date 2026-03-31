@@ -4,6 +4,7 @@ A Notion-backed game backlog metadata sync tool that makes your backlog smarter 
 
 ## Features
 - API ingestion from HLTB and Metacritic.
+- Steam cover/poster lookup for enhanced game artwork.
 - Local metadata collection and poster lookup.
 - Optional Notion row update workflow for backlog enrichment.
 - CSV/JSON export for archive and analysis.
@@ -22,6 +23,3 @@ A Notion-backed game backlog metadata sync tool that makes your backlog smarter 
 - python populate_hltb.py
 - python populate_metacritic.py
 - python populate_posters.py
-
-## Notes
-- Do not commit .env (credentials). .gitignore includes .env and .venv.
