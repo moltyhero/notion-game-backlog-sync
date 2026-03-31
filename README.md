@@ -23,3 +23,6 @@ A Notion-backed game backlog metadata sync tool that makes your backlog smarter 
 - python populate_hltb.py
 - python populate_metacritic.py
 - python populate_posters.py
+
+## My Notion Setup
+https://clever-addition-8ec.notion.site/f420b94ee5884f4fb52b16de5f962ea3?v=c8355725fb2d45d3a565018b11aee313
